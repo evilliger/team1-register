@@ -9,12 +9,12 @@
 </style>
 </head>
 <body>
-	<h1>ADDRESS ENTITY MANAGER</h1>
+	<h1>ADDRESS ENTRY MANAGER</h1>
  
-	Function : <a href="/addressentry/add">Add Customer</a>
+	Function : <a href="/addressentry/add">Add Address Entry</a>
 	<hr />
  
-	<h2>All Customers</h2>
+	<h2>All Address Entries</h2>
 	<table border="1">
 		<thead>
 			<tr>
